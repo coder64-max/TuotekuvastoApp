@@ -1,0 +1,4 @@
+# gitignore-tiedosto on tarkoitettu vain projektin omien tiedostojen hallintaan (kommentit merkitään # risuaidalla)
+.vs/
+bin/
+obj/
